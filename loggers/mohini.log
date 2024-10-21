@@ -1,0 +1,4 @@
+2024-10-19 21:34:46,508 [http-nio-8080-exec-4] ERROR com.log.controller.UserRest                        - store exception of our app
+2024-10-19 21:34:46,510 [http-nio-8080-exec-4] WARN  com.log.controller.UserRest                        - store warning message out app
+2024-10-19 21:35:55,616 [http-nio-8080-exec-1] ERROR com.log.controller.UserRest                        - store exception of our app
+2024-10-19 21:35:55,617 [http-nio-8080-exec-1] WARN  com.log.controller.UserRest                        - store warning message out app
